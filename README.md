@@ -4,7 +4,7 @@
 
 # 🚦 Beyond the Adjacency Matrix: A Deep Dive into PEMS
 
-![Python](https://img.shields.io/badge/Python-3.11+%2B-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python)
 <img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/0bddd93d-b41c-4860-a0dc-aa9e797a2cae" />
 
 
